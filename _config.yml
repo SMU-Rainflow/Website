@@ -90,12 +90,12 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: amber
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
+  type: 'git'
   repo: https://github.com/SMU-Rainflow/SMU-Rainflow.github.io.git
   #repository:
   # github: git@github.com:SMU-IoT/SMU-IoT.github.io.git
